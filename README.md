@@ -1,6 +1,7 @@
 
 
--- to test this smart contract, you can use foundry to fork mainnet : 
+## To test this smart contract, you can use a json-rpc provider &  foundry to fork mainnet : 
+
 ```
 FORK_URL="http://-your-alchemy/infura-rpc-url-endpoint"
 
